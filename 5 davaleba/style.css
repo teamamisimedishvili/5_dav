@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+}
+body{
+    background-color: #1E1E1E; 
+
+}
+.img {
+    
+    background-color:  #171717;
+    padding-left:  217px;
+    padding-left: 82px;
+}
+.div1 {
+    background-color: #071922;
+    margin-left: 500px;
+    margin-bottom: 700px;
+    width: 531px;
+    height: 621px;
+    border-radius: 100px;
+}
+
+.erti {
+    width: 179px;
+     height: 58px;
+     padding-top: 124px;
+     font-size: 54px;
+     margin-left: 186px;
+     color: #FFFFFF;
+     text-align: center;
+     margin-top: 20px;
+     
+}
+
+h2 {
+  
+   font-size: 58px;
+   margin-left: 29px;
+   color: #FFFFFF;
+   text-align: center;
+}
+
+input [ type="text"] {
+    color: #D9D9D9;
+    border: none;
+    
+}
+label {
+    color: #FFFFFF;
+    width: 57px;
+    height: 32px;
+    padding-left: 57;
+    padding-top: 32;
+}
+input {
+    color: #D9D9D9;
+    border: none;
+    width: 480px;
+    height: 59px;
+    margin-left: 22px;
+    border-radius: 100px;
+    padding-left: 29px;
+    padding-top: 5px;
+    font-size: 20px;
+    line-height: 32px;
+}
+.pp {
+    color: #DBD2CD;
+   border: none;
+    width: 206px;
+    height: 59px;
+    padding-left: 52px;
+    padding-top: 10px;
+   margin-top: 54px;
+   margin-left: 163;
+   font-weight: 700;
+   font-size: 26px;
+}
+p {
+    padding-left: 153px;
+    font-weight: 400;
+    font-size: 20px;
+    color: #FFFFFF;
+}
